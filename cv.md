@@ -11,6 +11,8 @@
  * ## Code examples 
  [*15-game*](https://alexeybobkovv.github.io/15th-Game/) - a game made by me in an attempt to catch up with the course program
  [*momentum*](https://rolling-scopes-school.github.io/alexeybobkovv-JS2020Q3/momentum/) - one of the programs to which I have a link from the previous set
+ * ## Сompleted courses 
+ I took the course in 20 and 21 but could not complete them due to workload
  * ## Englih level 
  My english level is B1 - B2
 
