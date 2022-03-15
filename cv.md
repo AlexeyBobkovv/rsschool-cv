@@ -1,5 +1,7 @@
 # **Alexey Bobkov**
- [*Email*](alekseixxxbobkov@bk.ru) or  [*Vk*](https://vk.com/lesha122)
+ [*Email*](alekseixxxbobkov@bk.ru) or  
+ [*Vk*](https://vk.com/lesha122)
+ * Telegram: [*link*](https://t.me/ChokoPieka)
  * ## Interests
  I have a concept of the work of various types of web programming. 
  For two years I was engaged in self-study in this direction and would like to connect my life with this.
