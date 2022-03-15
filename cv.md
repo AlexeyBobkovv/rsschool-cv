@@ -1,6 +1,8 @@
 # **Alexey Bobkov**
- [*Email*](alekseixxxbobkov@bk.ru) or  
+ [*Email*](alekseixxxbobkov@bk.ru)
+ ====
  [*Vk*](https://vk.com/lesha122)
+ ====
  **Telegram:** [*link*](https://t.me/ChokoPieka)
  * ## Interests
  I have a concept of the work of various types of web programming. 
